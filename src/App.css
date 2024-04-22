@@ -1,0 +1,32 @@
+
+#quote-box {
+  margin: auto;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+#author {
+  padding: 10px;
+}
+
+#new-quote {
+  padding: 10px;
+}
+
+#tweet-quote {
+  padding: 10px;
+}
+
+.main {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  background-color: rgb(35, 35, 80);
+}
