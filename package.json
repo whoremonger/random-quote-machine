@@ -1,9 +1,9 @@
 {
   "name": "random-quote-machine",
-  "homepage": "https://whoremonger.github.io/random-quote-machine",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://whoremonger.github.io/random-quote-machine",
   "scripts": {
     "start": "vite",
     "predeploy" : "npm run build",
